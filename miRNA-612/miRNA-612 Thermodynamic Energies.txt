@@ -1,0 +1,42 @@
+External loop                           :     0
+Interior loop (  1, 94) UA; (  2, 93) CG:  -240
+Interior loop (  2, 93) CG; (  3, 92) CG:  -330
+Interior loop (  3, 92) CG; (  6, 88) UG:   330
+Interior loop (  6, 88) UG; (  7, 87) CG:  -150
+Interior loop (  7, 87) CG; (  8, 86) UA:  -210
+Interior loop (  8, 86) UA; (  9, 85) GC:  -210
+Interior loop (  9, 85) GC; ( 10, 84) GC:  -330
+Interior loop ( 10, 84) GC; ( 14, 83) CG:   320
+Interior loop ( 14, 83) CG; ( 15, 82) UA:  -210
+Interior loop ( 15, 82) UA; ( 16, 81) GC:  -210
+Interior loop ( 16, 81) GC; ( 17, 80) CG:  -340
+Interior loop ( 17, 80) CG; ( 18, 79) UG:  -210
+Interior loop ( 18, 79) UG; ( 19, 73) GC:   450
+Interior loop ( 19, 73) GC; ( 20, 72) GC:  -330
+Interior loop ( 20, 72) GC; ( 21, 71) GC:  -330
+Interior loop ( 21, 71) GC; ( 23, 70) AU:   140
+Interior loop ( 23, 70) AU; ( 24, 69) GC:  -210
+Interior loop ( 24, 69) GC; ( 25, 68) GC:  -330
+Interior loop ( 25, 68) GC; ( 26, 67) GC:  -330
+Interior loop ( 26, 67) GC; ( 27, 66) CG:  -340
+Interior loop ( 27, 66) CG; ( 28, 65) UG:  -210
+Interior loop ( 28, 65) UG; ( 29, 64) UG:   -50
+Interior loop ( 29, 64) UG; ( 30, 63) CG:  -150
+Interior loop ( 30, 63) CG; ( 31, 62) UA:  -210
+Interior loop ( 31, 62) UA; ( 32, 61) GC:  -210
+Interior loop ( 32, 61) GC; ( 33, 59) AU:   140
+Interior loop ( 33, 59) AU; ( 34, 58) GC:  -210
+Interior loop ( 34, 58) GC; ( 35, 57) CG:  -340
+Interior loop ( 35, 57) CG; ( 36, 56) UG:  -210
+Interior loop ( 36, 56) UG; ( 37, 55) CG:  -150
+Interior loop ( 37, 55) CG; ( 38, 54) CG:  -330
+Interior loop ( 38, 54) CG; ( 39, 53) UA:  -210
+Interior loop ( 39, 53) UA; ( 40, 52) UG:  -130
+Interior loop ( 40, 52) UG; ( 42, 49) GC:   190
+Interior loop ( 42, 49) GC; ( 43, 48) CG:  -340
+Hairpin  loop ( 43, 48) CG              :   410
+UCCCAUCUGGACCCUGCUGGGCAGGGCUUCUGAGCUCCUUAGCACUAGCAGGAGGGGCUCCAGGGGCCCUCCCUCCAUGGCAGCCAGGACAGGACUCUCA
+(((..(((((...((((((((.((((((((((((((((((.((....))..)))))))).))))))))))))).....))))))))))...)))...... (-50.80)
+
+Structure with SHAPE Reactivities Overall Minimum Free Energy: -76.83 kcal/mol
+Frequency of Minimum Free Energy Structure: 33.71%
