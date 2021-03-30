@@ -1,0 +1,40 @@
+External loop                           :     0
+Interior loop (  1, 86) UG; (  2, 85) CG:  -150
+Interior loop (  2, 85) CG; (  3, 84) CG:  -330
+Interior loop (  3, 84) CG; (  4, 83) AU:  -210
+Interior loop (  4, 83) AU; (  5, 82) GC:  -210
+Interior loop (  5, 82) GC; (  6, 81) GC:  -330
+Interior loop (  6, 81) GC; (  7, 80) CG:  -340
+Interior loop (  7, 80) CG; (  8, 79) GU:  -140
+Interior loop (  8, 79) GU; (  9, 78) CG:  -250
+Interior loop (  9, 78) CG; ( 10, 77) AU:  -210
+Interior loop ( 10, 77) AU; ( 11, 76) GC:  -210
+Interior loop ( 11, 76) GC; ( 12, 75) GU:  -150
+Interior loop ( 12, 75) GU; ( 14, 73) CG:   150
+Interior loop ( 14, 73) CG; ( 15, 72) AU:  -210
+Interior loop ( 15, 72) AU; ( 16, 71) GC:  -210
+Interior loop ( 16, 71) GC; ( 17, 70) CG:  -340
+Interior loop ( 17, 70) CG; ( 18, 69) CG:  -330
+Interior loop ( 18, 69) CG; ( 20, 67) CG:    50
+Interior loop ( 20, 67) CG; ( 21, 66) UA:  -210
+Interior loop ( 21, 66) UA; ( 22, 65) GC:  -210
+Interior loop ( 22, 65) GC; ( 25, 63) CG:   230
+Interior loop ( 25, 63) CG; ( 26, 62) AU:  -210
+Interior loop ( 26, 62) AU; ( 27, 61) CG:  -220
+Interior loop ( 27, 61) CG; ( 28, 59) CG:    50
+Interior loop ( 28, 59) CG; ( 29, 58) GC:  -240
+Interior loop ( 29, 58) GC; ( 30, 57) CG:  -340
+Interior loop ( 30, 57) CG; ( 31, 56) AU:  -210
+Interior loop ( 31, 56) AU; ( 32, 55) CG:  -220
+Interior loop ( 32, 55) CG; ( 33, 54) AU:  -210
+Interior loop ( 33, 54) AU; ( 35, 52) UA:   190
+Interior loop ( 35, 52) UA; ( 36, 51) GC:  -210
+Interior loop ( 36, 51) GC; ( 39, 47) CG:   260
+Interior loop ( 39, 47) CG; ( 40, 46) UA:  -210
+Interior loop ( 40, 46) UA; ( 41, 45) GC:  -210
+Hairpin  loop ( 41, 45) GC              :   540
+UCCAGGCGCAGGGCAGCCCCUGCCCACCGCACACUGCGCUGCCCCAGACCCACUGUGCGUGUGACAGCGGCUGAUCUGUGCCUGGGCAGCGCGACC
+((((((((((((.(((((.(((..(((((((((.((..(((...)))...)).)))))).))).))).))))).)))))))))))).......... (-48.50)
+
+Structure with SHAPE Reactivities Overall Minimum Free Energy: -74.63 kcal/mol
+Frequency of Minimum Free Energy Structure: 41.34%
