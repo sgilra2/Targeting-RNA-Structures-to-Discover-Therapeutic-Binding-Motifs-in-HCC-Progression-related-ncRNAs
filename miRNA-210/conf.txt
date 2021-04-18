@@ -1,0 +1,8 @@
+receptor = miRNA-210_3D_Structure_model1.pdbqt
+exhaustiveness  = 8
+center_x = -22.5233
+center_y = -41.2287
+center_z = -12.3416
+size_x = 58.5587917781
+size_y = 108.178786163
+size_z = 63.3379605103
