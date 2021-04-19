@@ -1,0 +1,432 @@
+MODEL 1
+REMARK VINA RESULT:      -8.4      0.000      0.000
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1     -20.835 -48.944 -18.814  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1     -22.099 -49.221 -19.173  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1     -22.876 -48.562 -19.215  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1     -22.148 -50.506 -19.460  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1     -22.970 -51.028 -19.767  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1     -20.914 -51.003 -19.275  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1     -20.055 -50.045 -18.865  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1     -19.096 -50.129 -18.656  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1     -20.377 -47.603 -18.418  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1     -19.370 -46.843 -18.971  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1     -19.304 -45.691 -18.291  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1     -20.230 -45.762 -17.373  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1     -18.661 -44.915 -18.455  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1     -20.899 -46.885 -17.408  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1     -21.663 -47.162 -16.792  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1     -18.526 -47.168 -20.062  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -18.516 -48.111 -20.472  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1     -17.904 -46.452 -20.460  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1     -20.563 -52.414 -19.494  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1     -21.108 -53.303 -20.393  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1     -20.479 -54.478 -20.243  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1     -19.599 -54.294 -19.296  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1     -20.652 -55.339 -20.762  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1     -19.610 -53.078 -18.817  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1     -19.014 -52.707 -18.076  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1     -22.146 -53.076 -21.331  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1     -23.084 -53.465 -21.163  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1     -21.986 -52.528 -22.185  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.3     28.358     31.710
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1     -10.881 -22.986  -9.455  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1     -11.673 -22.737  -8.398  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1     -12.004 -23.418  -7.715  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1     -11.942 -21.447  -8.411  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1     -12.520 -20.943  -7.738  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1     -11.312 -20.919  -9.473  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1     -10.630 -21.862 -10.159  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1     -10.085 -21.755 -10.972  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1     -10.363 -24.322  -9.785  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1      -9.438 -24.669 -10.745  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1      -9.268 -25.998 -10.692  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1     -10.058 -26.421  -9.742  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1      -8.649 -26.563 -11.273  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1     -10.733 -25.459  -9.170  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1     -11.406 -25.552  -8.409  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1      -8.756 -23.821 -11.652  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1      -8.924 -23.871 -12.665  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1      -8.075 -23.135 -11.300  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1     -11.370 -19.493  -9.828  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1     -11.000 -18.888 -11.008  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1     -11.227 -17.572 -10.885  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1     -11.711 -17.403  -9.683  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1     -11.057 -16.851 -11.585  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1     -11.816 -18.521  -9.014  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1     -12.166 -18.633  -8.061  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1     -10.470 -19.493 -12.175  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1     -10.555 -20.509 -12.311  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1      -9.995 -18.938 -12.898  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.3     28.352     31.181
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1     -11.326 -20.939  -9.469  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1     -11.997 -21.480  -8.439  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1     -12.602 -20.986  -7.784  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1     -11.725 -22.769  -8.434  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1     -12.082 -23.461  -7.774  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1     -10.892 -23.005  -9.461  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1     -10.616 -21.871 -10.140  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1     -10.038 -21.753 -10.929  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1     -11.373 -19.508  -9.808  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1     -11.008 -18.894 -10.986  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1     -11.219 -17.578 -10.846  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1     -11.689 -17.417  -9.639  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1     -11.049 -16.850 -11.541  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1     -11.799 -18.540  -8.978  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1     -12.140 -18.658  -8.024  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1     -10.497 -19.493 -12.164  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -10.540 -19.014 -13.073  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1     -10.072 -20.429 -12.121  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1     -10.359 -24.336  -9.788  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1      -9.447 -24.678 -10.761  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1      -9.255 -26.004 -10.696  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1     -10.020 -26.430  -9.727  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1      -8.639 -26.565 -11.284  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1     -10.699 -25.472  -9.154  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1     -11.356 -25.567  -8.379  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1      -8.797 -23.830 -11.690  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1      -8.112 -23.136 -11.360  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1      -8.992 -23.887 -12.697  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.3      3.905      5.916
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1     -22.068 -44.127 -16.867  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1     -23.209 -44.830 -16.779  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1     -24.129 -44.463 -16.535  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1     -22.917 -46.082 -17.065  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1     -23.569 -46.867 -17.085  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1     -21.600 -46.134 -17.327  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1     -21.028 -44.916 -17.212  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1     -20.085 -44.666 -17.346  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1     -21.982 -42.680 -16.618  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1     -22.776 -41.902 -15.804  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1     -22.334 -40.639 -15.884  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1     -21.322 -40.665 -16.709  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1     -22.710 -39.823 -15.400  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1     -21.072 -41.861 -17.175  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1     -20.335 -42.121 -17.830  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1     -23.873 -42.307 -15.004  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -24.304 -41.672 -14.321  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1     -24.255 -43.258 -15.101  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1     -20.890 -47.369 -17.690  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1     -19.867 -47.535 -18.596  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1     -19.528 -48.833 -18.602  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1     -20.316 -49.412 -17.737  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1     -18.803 -49.276 -19.166  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1     -21.148 -48.581 -17.166  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1     -21.852 -48.806 -16.462  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1     -19.244 -46.552 -19.404  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1     -19.580 -45.579 -19.380  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1     -18.457 -46.785 -20.022  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -8.3      3.922      8.259
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1     -21.524 -46.018 -17.315  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1     -22.852 -45.897 -17.147  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1     -23.543 -46.641 -17.236  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1     -23.092 -44.637 -16.847  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1     -24.006 -44.223 -16.659  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1     -21.911 -43.999 -16.833  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1     -20.895 -44.838 -17.125  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1     -19.932 -44.640 -17.185  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1     -20.860 -47.283 -17.661  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1     -19.855 -47.501 -18.578  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1     -19.559 -48.808 -18.561  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1     -20.352 -49.343 -17.673  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1     -18.857 -49.287 -19.126  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1     -21.148 -48.474 -17.108  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1     -21.849 -48.661 -16.390  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1     -19.213 -46.555 -19.415  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -19.742 -45.986 -20.088  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1     -18.194 -46.427 -19.358  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1     -21.763 -42.566 -16.537  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1     -22.446 -41.807 -15.613  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1     -21.983 -40.551 -15.688  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1     -21.065 -40.563 -16.617  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1     -22.285 -39.750 -15.134  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1     -20.897 -41.743 -17.153  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1     -20.238 -41.991 -17.893  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1     -23.463 -42.222 -14.718  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1     -23.229 -42.442 -13.740  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1     -24.441 -42.312 -15.021  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -8.3     55.630     58.517
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1      -8.356   3.203   3.516  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1      -9.087   2.134   3.874  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1      -9.523   1.975   4.782  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1      -9.135   1.330   2.831  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1      -9.615   0.431   2.781  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1      -8.434   1.914   1.846  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1      -7.926   3.101   2.240  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1      -7.376   3.735   1.725  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1      -8.073   4.332   4.414  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1      -8.930   4.976   5.279  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1      -8.241   5.946   5.895  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1      -7.027   5.882   5.418  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1      -8.592   6.601   6.595  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1      -6.876   4.935   4.530  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1      -6.022   4.699   4.026  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1     -10.301   4.706   5.516  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -10.968   4.590   4.743  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1     -10.648   4.623   6.481  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1      -8.255   1.320   0.512  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1      -8.686   1.798  -0.704  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1      -8.297   0.930  -1.650  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1      -7.663  -0.023  -1.022  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1      -8.464   0.999  -2.654  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1      -7.611   0.165   0.271  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1      -7.168  -0.445   0.960  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1      -9.413   2.985  -0.972  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1      -9.153   3.577  -1.773  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1     -10.200   3.277  -0.380  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -8.2     55.663     58.765
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1      -8.442   1.933   1.856  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1      -9.121   1.340   2.852  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1      -9.594   0.438   2.810  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1      -9.062   2.144   3.894  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1      -9.481   1.980   4.810  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1      -8.348   3.221   3.526  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1      -7.938   3.124   2.243  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1      -7.404   3.765   1.720  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1      -8.279   1.342   0.519  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1      -8.684   1.848  -0.697  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1      -8.326   0.972  -1.646  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1      -7.736  -0.011  -1.022  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1      -8.483   1.055  -2.651  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1      -7.682   0.163   0.272  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1      -7.271  -0.470   0.958  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1      -9.358   3.067  -0.958  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -10.276   3.085  -1.419  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1      -8.927   3.960  -0.685  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1      -8.060   4.351   4.422  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1      -8.910   4.992   5.294  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1      -8.217   5.964   5.905  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1      -7.008   5.904   5.416  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1      -8.564   6.618   6.607  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1      -6.864   4.957   4.527  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1      -6.012   4.723   4.015  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1     -10.278   4.719   5.544  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1     -10.541   3.999   6.231  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1     -11.025   5.226   5.053  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -8.2     25.654     30.029
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1     -11.707 -24.503 -10.008  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1     -10.943 -24.357  -8.912  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1     -10.665 -25.095  -8.265  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1     -10.622 -23.082  -8.830  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1     -10.047 -22.648  -8.107  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1     -11.190 -22.460  -9.875  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1     -11.886 -23.325 -10.644  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1     -12.397 -23.142 -11.465  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1     -12.268 -25.791 -10.443  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1     -13.582 -26.110 -10.701  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1     -13.628 -27.398 -11.070  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1     -12.395 -27.825 -11.033  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1     -14.456 -27.935 -11.328  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1     -11.545 -26.903 -10.665  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1     -10.535 -27.006 -10.564  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1     -14.721 -25.272 -10.611  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -14.639 -24.248 -10.637  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1     -15.658 -25.688 -10.515  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1     -11.061 -21.018 -10.133  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1     -10.692 -20.385 -11.299  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1     -10.710 -19.063 -11.075  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1     -11.073 -18.917  -9.829  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1     -10.486 -18.324 -11.740  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1     -11.294 -20.055  -9.224  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1     -11.586 -20.186  -8.255  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1     -10.346 -20.971 -12.543  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1      -9.613 -20.544 -13.125  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1     -10.813 -21.820 -12.884  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -8.2     25.628     29.397
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_2 
+REMARK    2  A    between atoms: C_8  and  C_9 
+REMARK    3  A    between atoms: C_14  and  C_15 
+REMARK    4  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C   ZIN N   1     -11.193 -22.484  -9.879  0.00  0.00     0.154 A 
+HETATM    2  N   ZIN N   1     -10.622 -23.111  -8.836  0.00  0.00    -0.282 N 
+ATOM      3  HN  ZIN N   1     -10.046 -22.681  -8.113  1.00  0.00     0.188 HD
+HETATM    4  N   ZIN N   1     -10.944 -24.385  -8.926  0.00  0.00    -0.282 N 
+ATOM      5  HN  ZIN N   1     -10.665 -25.126  -8.283  1.00  0.00     0.188 HD
+HETATM    6  C   ZIN N   1     -11.710 -24.526 -10.020  0.00  0.00     0.154 A 
+HETATM    7  N   ZIN N   1     -11.890 -23.346 -10.650  0.00  0.00    -0.322 N 
+HETATM    8  H   ZIN N   1     -12.402 -23.159 -11.471  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   9
+HETATM    9  C   ZIN N   1     -11.064 -21.040 -10.130  0.00  0.00     0.147 A 
+HETATM   10  C   ZIN N   1     -10.695 -20.402 -11.294  0.00  0.00     0.154 A 
+HETATM   11  N   ZIN N   1     -10.714 -19.082 -11.063  0.00  0.00    -0.224 N 
+HETATM   12  O   ZIN N   1     -11.079 -18.942  -9.817  0.00  0.00    -0.155 OA
+ATOM     13  HN  ZIN N   1     -10.489 -18.338 -11.724  1.00  0.00     0.198 HD
+HETATM   14  N   ZIN N   1     -11.299 -20.082  -9.217  0.00  0.00    -0.234 N 
+ATOM     15  HN  ZIN N   1     -11.591 -20.218  -8.249  1.00  0.00     0.197 HD
+BRANCH  10  16
+HETATM   16  N   ZIN N   1     -10.347 -20.983 -12.538  0.00  0.00    -0.382 N 
+HETATM   17  H   ZIN N   1     -10.161 -21.990 -12.629  0.00  0.00     0.157 HD
+HETATM   18  H   ZIN N   1     -10.276 -20.392 -13.378  0.00  0.00     0.157 HD
+ENDBRANCH  10  16
+ENDBRANCH   1   9
+BRANCH   6  19
+HETATM   19  C   ZIN N   1     -12.271 -25.812 -10.460  0.00  0.00     0.147 A 
+HETATM   20  C   ZIN N   1     -13.584 -26.127 -10.728  0.00  0.00     0.154 A 
+HETATM   21  N   ZIN N   1     -13.631 -27.415 -11.100  0.00  0.00    -0.224 N 
+HETATM   22  O   ZIN N   1     -12.399 -27.846 -11.053  0.00  0.00    -0.155 OA
+ATOM     23  HN  ZIN N   1     -14.459 -27.949 -11.363  1.00  0.00     0.198 HD
+HETATM   24  N   ZIN N   1     -11.550 -26.926 -10.677  0.00  0.00    -0.234 N 
+ATOM     25  HN  ZIN N   1     -10.541 -27.032 -10.570  1.00  0.00     0.197 HD
+BRANCH  20  26
+HETATM   26  N   ZIN N   1     -14.722 -25.287 -10.645  0.00  0.00    -0.382 N 
+HETATM   27  H   ZIN N   1     -14.944 -24.645 -11.418  0.00  0.00     0.157 HD
+HETATM   28  H   ZIN N   1     -15.339 -25.299  -9.823  0.00  0.00     0.157 HD
+ENDBRANCH  20  26
+ENDBRANCH   6  19
+TORSDOF 4
+ENDMDL
