@@ -1,5 +1,5 @@
 # Targeting RNA Structures to Discover Therapeutic Binding Motifs in Hepatocellular Carcinoma Progression related Noncoding RNAs
-This repository consists of all data and analysis done after the completion of this research's methodology. The home page of the repository includes files and folders. The files attached in the home page represent the overall research data and analysis. Every folder has been dedicated to a specific non-coding RNA of interest chosen during initial research and methodology.
+This repository consists of all data and analysis done during the progress of this research. The home page of the repository includes files and folders. The files attached in the home page represent the overall research data and analysis. Every folder has been dedicated to a specific non-coding RNA of interest chosen during initial research and methodology.
 
 The folders consist of the following files:
 1. 2D Circular Structure Representation
