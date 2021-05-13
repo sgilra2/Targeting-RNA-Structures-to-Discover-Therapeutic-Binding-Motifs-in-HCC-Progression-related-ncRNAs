@@ -1,0 +1,24 @@
+External loop                           :    50
+Interior loop (  1, 62) UA; (  2, 61) CG:  -240
+Interior loop (  2, 61) CG; (  3, 60) AU:  -210
+Interior loop (  3, 60) AU; (  4, 59) UA:  -110
+Interior loop (  4, 59) UA; (  5, 58) UA:   -90
+Interior loop (  5, 58) UA; (  8, 54) UA:   290
+Interior loop (  8, 54) UA; (  9, 53) CG:  -240
+Interior loop (  9, 53) CG; ( 13, 49) AU:   190
+Interior loop ( 13, 49) AU; ( 14, 48) GC:  -210
+Interior loop ( 14, 48) GC; ( 15, 47) GU:  -150
+Interior loop ( 15, 47) GU; ( 16, 46) GC:  -210
+Interior loop ( 16, 46) GC; ( 17, 45) GU:  -150
+Interior loop ( 17, 45) GU; ( 18, 44) AU:  -130
+Interior loop ( 18, 44) AU; ( 19, 43) GC:  -210
+Interior loop ( 19, 43) GC; ( 20, 42) AU:  -240
+Interior loop ( 20, 42) AU; ( 22, 41) AU:   290
+Interior loop ( 22, 41) AU; ( 23, 40) GC:  -210
+Interior loop ( 23, 40) GC; ( 24, 39) GC:  -330
+Hairpin  loop ( 24, 39) GC              :   530
+UCAUUGGUCCAGAGGGGAGAUAGGUUCCUGUGAUUUUUCCUUCUUCUCUAUAGAAUAAAUGA
+(((((..((...((((((((.(((..............)))))))))))...))...))))) (-13.80)
+
+Structure with SHAPE Reactivities Overall Minimum Free Energy: -24.05 kcal/mol
+Frequency of Minimum Free Energy Structure: 39.35%
